@@ -1,0 +1,9 @@
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/build/CMakeFiles/problem1_circleArea.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/build/CMakeFiles/problem2_increment.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/build/CMakeFiles/problem3_recursive.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/build/CMakeFiles/problem4_print.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/build/CMakeFiles/problem5_transformArray.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/build/CMakeFiles/problem6_executeCallback.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/build/CMakeFiles/problem7_sum.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/build/CMakeFiles/edit_cache.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/build/CMakeFiles/rebuild_cache.dir
