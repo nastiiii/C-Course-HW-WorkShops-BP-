@@ -1,0 +1,4 @@
+/Users/anastasiaseraa/Course-C-/2023-2024 2nd sem/week1/01-02 sem/CMakeFiles/ex1.dir
+/Users/anastasiaseraa/Course-C-/2023-2024 2nd sem/week1/01-02 sem/CMakeFiles/ex2.dir
+/Users/anastasiaseraa/Course-C-/2023-2024 2nd sem/week1/01-02 sem/CMakeFiles/edit_cache.dir
+/Users/anastasiaseraa/Course-C-/2023-2024 2nd sem/week1/01-02 sem/CMakeFiles/rebuild_cache.dir
