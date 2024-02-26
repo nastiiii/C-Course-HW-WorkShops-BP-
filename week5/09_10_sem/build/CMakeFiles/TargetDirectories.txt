@@ -1,0 +1,13 @@
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/week5/09_10_sem/build/CMakeFiles/problem1_sum.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/week5/09_10_sem/build/CMakeFiles/problem2_copy.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/week5/09_10_sem/build/CMakeFiles/problem3_statictics.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/week5/09_10_sem/build/CMakeFiles/problem4_replace.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/week5/09_10_sem/build/CMakeFiles/problem5_reverse.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/week5/09_10_sem/build/CMakeFiles/problem6_line.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/week5/09_10_sem/build/CMakeFiles/problem7_blank.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/week5/09_10_sem/build/CMakeFiles/problem8_append.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/week5/09_10_sem/build/CMakeFiles/problem9_byte.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/week5/09_10_sem/build/CMakeFiles/problem10_change.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/week5/09_10_sem/build/CMakeFiles/problem11_cipher.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/week5/09_10_sem/build/CMakeFiles/edit_cache.dir
+/Users/anastasiaseraa/Documents/Github/Course-C(workshop)/C-Course-HW-WorkShops-BP-/week5/09_10_sem/build/CMakeFiles/rebuild_cache.dir
